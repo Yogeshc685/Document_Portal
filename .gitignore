@@ -2,3 +2,4 @@ venv
 LICENSE
 .env
 logs
+data
